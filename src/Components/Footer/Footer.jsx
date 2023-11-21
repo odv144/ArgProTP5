@@ -6,7 +6,7 @@ const Footer = () => {
     <Box as="footer" textAlign="center" p="20px 0" bg="light.blueGrey">
       <Text color='#0101FE' fontWeight='bold'>Codificado por Virili Omar Dario</Text>
       <Text color="#fff" size="1.2em" p="10px">
-        Argentina Programa Trabajo Practico Unidad 3
+        Argentina Programa Trabajo Practico Unidad 5
       </Text>
     </Box>
   );
